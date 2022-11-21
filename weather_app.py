@@ -2,10 +2,9 @@ import tkinter as tk
 import requests
 from tkinter import font
 
-HEIGHT = 600
-WIDTH = 600
+HEIGHT = 900
+WIDTH = 900
 SKY = '#80c1ff'
-
 
 # eae839fcb7c625f500ec769515ec6bf8
 # api.openweathermap.org/data/2.5/forecast?q={city name},{state code}&appid={API key}
